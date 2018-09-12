@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/FlappyMainMenu.unity
+- path: Assets/FlappyGame.unity
   isLoaded: 1
   isActive: 1
