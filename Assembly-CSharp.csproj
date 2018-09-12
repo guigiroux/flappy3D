@@ -72,6 +72,8 @@
      <Compile Include="Assets\SpawnManager.cs" />
      <Compile Include="Assets\SpeedIncreaser.cs" />
      <Compile Include="Assets\SpeedManager.cs" />
+     <Compile Include="Assets\UnderwaterFantasy\Scripts\Done_BGScroller.cs" />
+     <Compile Include="Assets\UnderwaterFantasy\Scripts\Perspective2DSortMode.cs" />
      <None Include="Assets\AxeyWorks\Low Poly v2\Shaders\AxeyWorksPolyWaterBlendFoam.shader" />
      <None Include="Assets\AxeyWorks\Low Poly v2\Shaders\AxeyWorksMobDist.shader" />
      <None Include="Assets\Sardine\ReadMe.txt" />
